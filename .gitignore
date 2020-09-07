@@ -3,3 +3,5 @@
 
 # WP-CLI
 wp-cli.local.yml
+
+.env
