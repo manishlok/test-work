@@ -8,7 +8,6 @@ Options All -Indexes
 <Files xmlrpc.php>
 order deny,allow
 deny from all
-allow from 123.123.123.123
 </Files>
 # BEGIN WordPress
 # The directives (lines) between "BEGIN WordPress" and "END WordPress" are
