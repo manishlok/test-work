@@ -965,5 +965,65 @@
             "env",
             "environment"
         ]
+    },
+    {
+        "name": "wpackagist-plugin/advanced-custom-fields",
+        "version": "5.9.0",
+        "version_normalized": "5.9.0.0",
+        "source": {
+            "type": "svn",
+            "url": "https://plugins.svn.wordpress.org/advanced-custom-fields/",
+            "reference": "tags/5.9.0"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://downloads.wordpress.org/plugin/advanced-custom-fields.5.9.0.zip"
+        },
+        "require": {
+            "composer/installers": "~1.0"
+        },
+        "type": "wordpress-plugin",
+        "installation-source": "dist",
+        "homepage": "https://wordpress.org/plugins/advanced-custom-fields/"
+    },
+    {
+        "name": "wpackagist-plugin/classic-editor",
+        "version": "1.6",
+        "version_normalized": "1.6.0.0",
+        "source": {
+            "type": "svn",
+            "url": "https://plugins.svn.wordpress.org/classic-editor/",
+            "reference": "tags/1.6"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://downloads.wordpress.org/plugin/classic-editor.1.6.zip"
+        },
+        "require": {
+            "composer/installers": "~1.0"
+        },
+        "type": "wordpress-plugin",
+        "installation-source": "dist",
+        "homepage": "https://wordpress.org/plugins/classic-editor/"
+    },
+    {
+        "name": "wpackagist-plugin/wp-head-cleaner",
+        "version": "1.5.8",
+        "version_normalized": "1.5.8.0",
+        "source": {
+            "type": "svn",
+            "url": "https://plugins.svn.wordpress.org/wp-head-cleaner/",
+            "reference": "tags/1.5.8"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://downloads.wordpress.org/plugin/wp-head-cleaner.1.5.8.zip"
+        },
+        "require": {
+            "composer/installers": "~1.0"
+        },
+        "type": "wordpress-plugin",
+        "installation-source": "dist",
+        "homepage": "https://wordpress.org/plugins/wp-head-cleaner/"
     }
 ]
